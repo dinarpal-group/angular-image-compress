@@ -1,7 +1,16 @@
 angular-image-compress
 =================
 
-######This Angular directive compresses jpeg or png files using angularjs on client side. It uses using HTML5 Canvas &amp; File API. The compression algorithm is based off of the ng-image-compress and J-I-C project on github. 
+## DinarPal Version
+-----------
+Edited to support loading bar when uploading images
+
+
+
+
+## Angular Image Compress
+
+This Angular directive compresses jpeg or png files using angularjs on client side. It uses using HTML5 Canvas &amp; File API. The compression algorithm is based off of the ng-image-compress and J-I-C project on github. 
 
 -----------
 
